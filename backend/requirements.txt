@@ -6,3 +6,4 @@ sqlalchemy
 psycopg2-binary
 pgvector
 neo4j
+sentence-transformers
